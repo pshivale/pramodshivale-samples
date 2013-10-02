@@ -1,0 +1,19 @@
+body{
+	padding-top: 20px;
+}
+#container{
+	height: 100%;
+	margin: 0 auto;
+	width: 90%;
+}
+#container header{
+	padding: 15px;
+	letter-spacing: 0.1em;
+}
+header p{
+	color: #888;
+	font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+#footer{
+	text-align: center;
+}
